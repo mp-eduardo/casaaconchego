@@ -37,7 +37,6 @@
 <<<<<<< HEAD
   "homepage": "https://github.com/mp-eduardo/casaaconchego/",
 =======
-  "homepage": "https://github.com/mp-eduardo/casaaconchego/",
 >>>>>>> ec7e7ebd80c53cd3d66af689d751bfb3bd8b1e38
   "scripts": {
     "dev": "vite",
