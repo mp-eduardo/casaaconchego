@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
   "name": "casa-aconchego-sto-amaro",
   "private": true,
@@ -28,9 +27,4 @@
     "typescript": "^5.4.5",
     "vite": "^5.2.11"
   }
-=======
-{
-  "name": "casa-aconchego-sto-amaro",
-  "private": true,
-  "version": "0.1.0",
-  "type": "module",
+}
