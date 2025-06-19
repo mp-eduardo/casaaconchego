@@ -3,11 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
-<<<<<<< HEAD
-  "homepage": "https://github.com/mp-eduardo/casaaconchego/",
-=======
-  "homepage": "https://SEU_USUARIO_GITHUB.github.io/SEU_REPOSITORIO/",
->>>>>>> ec7e7ebd80c53cd3d66af689d751bfb3bd8b1e38
+  "homepage": "https://mp-eduardo.github.io/casaaconchego/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
